@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866151380643",
+    "firebase_url": "https://egzas-e0b51-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "egzas-e0b51",
+    "storage_bucket": "egzas-e0b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866151380643:android:77395676805b0341c87116",
+        "android_client_info": {
+          "package_name": "com.lap.egzaminas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866151380643-6leksm4jl9ae73vse37vntrfv34mgen2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGNRL1swBAoUSyzrbS3jSqBc0NUd0xMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866151380643-6leksm4jl9ae73vse37vntrfv34mgen2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
